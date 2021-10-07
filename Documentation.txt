@@ -1,0 +1,10 @@
+#TO RUN THIS PROJECT IN ANDROID EMULATOR
+- Pastikan sudah menginstall node.js versi 14.x.x
+- Pastikan sudah menginstall jdk/java. (Pada kasus ini menggunakan jdk 1.8.x)
+- Kemudian pastikan juga Android studio sudah terisntal. ini berfungsi untuk menampung Emulator Androidnya.
+- Kemudian, pastikan sudah menginstall beberapa emulator Android pada android studio.
+- Setelah itu, jalankan Android studio, dan jalankan salah satu emulator Android yang ada pada android studio.
+- Kemudian, buka terminal/cmd, masuk ke dalam folder project dengan cara ketik "cd projectName"
+- Setelah itu, ketikkan "npx react-native run-android", tunggu execute/building project selesai
+- Jika execute/building project selesai dan berhasil, hasil building project akan tampil di emulator Android.
+- Done.
