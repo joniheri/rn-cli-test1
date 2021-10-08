@@ -4,4 +4,4 @@
 3. Untuk Ketikkan "~/Library/Android/sdk/emulator/emulator -list-avds"
 4. Untuk membuka emulator langsung tanpa membuka Android-Studio, ketikkan ini di terminal:
    "~/Library/Android/sdk/emulator/emulator -avds NamaEmulator"
-   Example : "~/Library/Android/sdk/emulator/emulator -avd "
+   Example : "~/Library/Android/sdk/emulator/emulator -avd Pixel_2_API_29"
